@@ -7,12 +7,13 @@ h1{
     text-align: center;
     padding-top: 20px;
     font-size: x-large;
+    margin-bottom: 30px;
 }
 
 img{
     width: 75px;
     padding: 10px;
-    transition: all .2s;
+    transition: all 1s;
 }
 
 
@@ -31,7 +32,7 @@ div{
     margin: 20px;
     
     box-shadow: none;
-    /* box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px; */
+    /* box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px,rgb(255, 255, 255) 0px 0px 0px 0px, rgb(31, 193, 27) 0px 0px 0px 6px,rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 217, 19) 0px 0px 0px 9px,rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 156, 85) 0px 0px 0px 12px,rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 85, 85) 0px 0px 0px 15px,rgb(255, 255, 255) 0px 0px 0px 0px; */
     /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
     transition: box-shadow .3s;
     
